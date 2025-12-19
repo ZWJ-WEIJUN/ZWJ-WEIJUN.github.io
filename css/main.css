@@ -153,6 +153,7 @@ section {
 
 .header-top {
   gap: 1rem;
+  align-items: center;
 }
 
 .header-image {
@@ -161,7 +162,9 @@ section {
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center;
   border: 1px solid #999;
+  margin: 0 auto;
 }
 
 .header-info ul {
