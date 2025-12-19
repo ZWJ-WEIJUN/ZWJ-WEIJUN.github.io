@@ -3,198 +3,318 @@
   "label": "Ph.D. Candidate",
   "image_path": "portfolio_media/Weijun-F2017-small-748x1024.jpg",
   "contact": {
-    "email": "FirstLast@Sample.com",
+    "email": "wejzhang@ucdavis.edu",
     "phone": "530-220-4824",
-    "location": "City, State, Country"
+    "location": "Woodland, CA 95776, USA"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Ph.D. Candidate in Mechanical and Aerospace Engineering at UC Davis, specializing in intelligent metal additive and hybrid manufacturing. My research focuses on real-time sensing, multi-sensor data fusion, and adaptive closed-loop process control for Directed Energy Deposition (DED) processes. I aim to advance Industry 5.0 concepts by creating autonomous, geometry-aware, and human-centered manufacturing ecosystems.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wei-jun-zhang",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
+      "label": "UC Davis Profile",
+      "url": "https://mae.ucdavis.edu",
+      "svg_path": "img/globe.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "University of California, Davis",
+      "position": "Graduate Student Researcher",
+      "url": "https://www.ucdavis.edu",
+      "start_date": "09/2019",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Conducting advanced research in intelligent metal additive and hybrid manufacturing, with focus on real-time process control and monitoring systems for Directed Energy Deposition (DED).",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Developed first-of-its-kind comprehensive real-time monitoring and control system for DED processes",
+        "Designed dual-loop hybrid controllers achieving 56% reduction in build height variability and 50% improvement in width uniformity",
+        "Reduced cycle time by over 25% while maintaining geometric accuracy and improving thermal management",
+        "Published 6 journal articles with 4+ manuscripts in preparation/under review"
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Apple R&D",
+      "position": "Mac System Product Design Intern",
+      "url": "https://www.apple.com",
+      "start_date": "01/2021",
+      "end_date": "12/2022",
+      "summary": "Contributed to data-driven mechanical sensing and input system development for Mac products through mechanical design and physics-informed machine learning modeling.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed sensing solutions that improved interaction localization accuracy from 83% to 97%",
+        "Performed DOE to identify root causes of performance variation and implement corrective design actions",
+        "Designed components in Siemens NX, conducted FEA in ABAQUS, and collaborated with cross-functional teams",
+        "Fabricated functional prototypes using metal additive manufacturing, wire EDM, and multi-axis CNC machining"
+      ]
+    },
+    {
+      "company": "University of California, Davis",
+      "position": "Associate Instructor",
+      "url": "https://www.ucdavis.edu",
+      "start_date": "09/2022",
+      "end_date": "06/2023",
+      "summary": "Instructed 140+ undergraduates in ABET-accredited courses covering engineering graphics and manufacturing processes.",
+      "highlights": [
+        "Delivered ABET-aligned lectures 2-3 times per week for ENG 004 and EME 050 courses",
+        "Integrated research topics including metal 3D printing, process planning, and metrology into curriculum",
+        "Supervised 10 teaching assistants supporting studio instruction and machine tool demonstrations",
+        "Earned student evaluations exceeding 90% satisfaction"
+      ]
+    },
+    {
+      "company": "University of California, Davis",
+      "position": "Teaching Assistant",
+      "url": "https://www.ucdavis.edu",
+      "start_date": "09/2019",
+      "end_date": "Present",
+      "summary": "Led hands-on lab sessions for 300+ undergraduates in ABET-accredited courses including engineering graphics, measurement systems, manufacturing processes, mechatronics, and advanced manufacturing.",
+      "highlights": [
+        "Taught CAD (SOLIDWORKS), CNC machining (Clausing lathe, Bridgeport mill, DMG MORI DMU50 with Fusion 360 CAM)",
+        "Instructed LabVIEW circuits/sensors and mechatronics projects with PID control systems",
+        "Designed graduate-level manufacturing demos (high-speed CNC machining, chatter vibration analysis)",
+        "Consistently received over 90% satisfaction in student and faculty evaluations"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Comprehensive DED Control System",
+      "summary": "Developed a first-of-its-kind comprehensive, real-time monitoring and control system for Directed Energy Deposition processes, forming the core of Ph.D. dissertation research (2022-Present).",
+      "url": "https://www.ucdavis.edu",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Designed dual-loop hybrid controllers manipulating laser power, deposition feed rate, and powder flow rate for multi-objective control",
+        "Reduced build height variability by 56% and improved width uniformity by 50%",
+        "Cut cycle time by over 25% while maintaining geometric accuracy",
+        "Validated on two different laser head systems with improved residual stress outcomes",
+        "Contributed to 4 journal publications"
       ],
       "images": [
         {
           "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
+          "caption": "DED Process Control System"
         },
         {
           "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
+          "caption": "Real-time Melt Pool Monitoring"
         },
         {
           "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "caption": "Controlled DED Build Results"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Material Property Analysis of DED Thin-Walls",
+      "summary": "Multi-institutional collaboration (UC Davis, J-PARC, KIT) analyzing material properties and residual stress in DED-manufactured thin-wall specimens (2023-Present).",
+      "url": "https://www.ucdavis.edu",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Measured internal residual stress using neutron diffractometer",
+        "Analyzed porosity, grain size, hardness, and tensile strength of 316L specimens",
+        "Demonstrated that energy-based control reduced residual stress",
+        "Showed powder-based control induced beneficial compressive stress",
+        "Established foundation for material-aware adaptive control"
       ],
       "images": [
         {
           "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "caption": "Neutron Diffraction Analysis"
         },
         {
           "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "caption": "316L Thin-Wall Specimens"
         },
         {
           "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "caption": "Microstructure Analysis"
+        }
+      ]
+    },
+    {
+      "title": "Comparative Study of Hybrid Additive-Subtractive Processes",
+      "summary": "Multi-institutional benchmarking study (UC Davis, UW-Madison, TU Wien) comparing three hybrid manufacturing processes: DED powder, WAAM wire, and friction surfacing (2024-2025).",
+      "url": "https://www.ucdavis.edu",
+      "highlights": [
+        "Fabricated identical artifact geometries using three different hybrid processes",
+        "Assessed geometric accuracy, material behavior, and system integration differences",
+        "Analyzed cycle time, resource consumption, distortion, energy consumption, microstructure, and mechanical properties",
+        "Friction Surfacing demonstrated higher hardness due to solid-state nature",
+        "WAAM offered lower cycle times and resource consumption; DED provided near net shape geometries"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Hybrid Manufacturing Comparison"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Process Benchmarking Results"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Material Property Analysis"
         }
       ]
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "organization": "ARMS Lab, UC Davis",
+      "position": "Research Lab Manager",
+      "url": "https://www.ucdavis.edu",
+      "start_date": "09/2019",
       "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "summary": "Managing lab operations, safety compliance, and supporting research activities.",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
+        "Managed lab safety compliance and training for all lab members",
+        "Maintained chemical and tool inventories, coordinated procurement with vendors",
+        "Oversaw lab budgeting and logistics",
+        "Administered and updated ARMS Lab website"
       ]
     },
     {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
+      "organization": "UC Davis MAE Department",
+      "position": "Undergraduate Mentor",
+      "url": "https://www.ucdavis.edu",
+      "start_date": "09/2019",
+      "end_date": "Present",
+      "summary": "Mentoring undergraduate students in research, machining, and career development.",
       "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
+        "Advised and trained over 10 undergraduate students in high-precision CNC machining",
+        "Provided guidance on academic and career development",
+        "Supported graduate school and scholarship applications",
+        "Mentored visiting international Ph.D. scholar, resulting in co-authored publication"
+      ]
+    },
+    {
+      "organization": "NAMRC and MSEC Conferences",
+      "position": "Reviewer and Conference Assistant",
+      "url": "https://www.sme.org",
+      "start_date": "01/2018",
+      "end_date": "Present",
+      "summary": "Contributing to peer review and conference organization for major manufacturing conferences.",
+      "highlights": [
+        "Reviewer for Journal of Manufacturing Processes, Additive Manufacturing, and other journals",
+        "Reviewed student research presentations at NAMRC and MSEC",
+        "Assisted with MTTRF conference organization (2018, 2019)",
+        "Participated in MAE recruitment and outreach activities"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "University of California, Davis",
+      "location": "Davis, CA",
+      "url": "https://www.ucdavis.edu",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Ph.D. in Mechanical and Aerospace Engineering (Expected March 2026)"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "honors": ["Graduate Student Researcher Fellowship (2019, 2023-Present)", "MAE Department Travel Award (2024, 2025)", "Global Research Grant (2023)", "MAE Non-Resident Tuition Fellowship (2020-2023)"],
+      "gpa_cumulative": "3.775",
+      "gpa_major": "3.775",
+      "graduation_date": "03/2026"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "University of California, Davis",
+      "location": "Davis, CA",
+      "url": "https://www.ucdavis.edu",
+      "degrees": ["M.S. in Mechanical and Aerospace Engineering"],
+      "honors": [],
+      "gpa_cumulative": "3.730",
+      "gpa_major": "3.730",
+      "graduation_date": "08/2020"
+    },
+    {
+      "institution": "Shaoxing University",
+      "location": "Shaoxing, China",
+      "url": "https://www.usx.edu.cn",
+      "degrees": ["B.S. Mechanical Design, Manufacturing & Automation"],
+      "honors": ["Academic Excellence Scholarship (2015)", "Outstanding Graduate Award (2015)", "National Scholarship (2014)", "Rank: 1/65"],
+      "gpa_cumulative": "3.686",
+      "gpa_major": "3.686",
+      "graduation_date": "07/2015"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "Additive Manufacturing (DED, SLM, FFF)",
+      "proficiency": 95,
+      "proficiency_label": "Expert"
     },
     {
-      "name": "My Second Skill",
+      "name": "CNC Machining & CAM (FANUC, SIEMENS, Fusion 360, Mastercam)",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "CAD (SOLIDWORKS, Siemens NX, AutoCAD, Pro/ENGINEER)",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Python Programming & Machine Learning (PyTorch)",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Process Control & Automation (LabVIEW, PLC Programming)",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "FEA (Abaqus, ANSYS)",
       "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "MATLAB & Data Analysis",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Real-time Sensing & Multi-sensor Data Fusion",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Materials Characterization & Testing",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Technical Writing & Publishing",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Advanced Manufacturing Research",
+      "summary": "Passionate about intelligent and sustainable manufacturing, with focus on Industry 5.0 concepts including human-machine collaboration, adaptive control systems, and digital twins for cyber-physical manufacturing.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
+          "img_path": "https://picsum.photos/600/338?random=11",
+          "caption": "Smart Manufacturing Systems"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "https://picsum.photos/600/338?random=12",
+          "caption": "Research Lab Activities"
         }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "STEM Education & Mentorship",
+      "summary": "Committed to fostering inclusive, hands-on education that empowers students to innovate and lead. Experience mentoring undergraduate students, teaching ABET-accredited courses, and participating in K-12 STEM outreach.",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
+          "img_path": "https://picsum.photos/600/338?random=13",
+          "caption": "Teaching and Mentorship"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "https://picsum.photos/600/338?random=14",
+          "caption": "Student Lab Activities"
         }
       ]
     }
@@ -202,23 +322,42 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Mandarin Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Jiangshan Dialect",
+      "fluency": "Native"
     }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "name": "Prof. Masakazu Soshi",
+      "relation": "Ph.D. Advisor, UC Davis MAE Department",
+      "reference": "Email: msoshi@ucdavis.edu | Phone: +1 (530) 752-8073"
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Prof. Frank E. Pfefferkorn",
+      "relation": "Collaborator, UW-Madison Mechanical Engineering",
+      "reference": "Email: frank.pfefferkorn@wisc.edu | Phone: +1 (608) 263-2668"
+    },
+    {
+      "name": "Prof. Barbara S. Linke",
+      "relation": "Faculty Member, UC Davis MAE Department",
+      "reference": "Email: bslinke@ucdavis.edu | Phone: +1 (530) 752-6451"
+    },
+    {
+      "name": "Prof. Wei Li",
+      "relation": "Faculty Member, UT Dallas Mechanical Engineering",
+      "reference": "Email: Wei.Li@utdallas.edu | Phone: +1 (972) 883-3983"
+    },
+    {
+      "name": "Mr. Gavin Gao",
+      "relation": "Product Design Engineer, Apple Inc.",
+      "reference": "Email: ming_gao@apple.com | Phone: +86-136-6180-0786"
     }
   ]
 }
